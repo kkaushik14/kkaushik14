@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://discord.gg/14_ripper">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -88,8 +88,10 @@
 
 # 📊 GitHub Stats:
 [![GitHub followers](https://img.shields.io/github/followers/kkaushik14?style=for-the-badge&logo=github&label=Followers)](https://github.com/kkaushik14?tab=followers)
-[![Recent Worked Repo](https://img.shields.io/badge/Recent%20Worked%20Repo-finance--access--control-181717?style=for-the-badge&logo=github)](https://github.com/kkaushik14/finance-access-control)
-[![Last Commit](https://img.shields.io/github/last-commit/kkaushik14/finance-access-control?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/kkaushik14/finance-access-control/commits/main)
+
+[![Recent Worked Repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Akkaushik14%26sort%3Dcommitter-date%26order%3Ddesc%26per_page%3D1&query=%24.items%5B0%5D.repository.full_name&label=Recent%20Worked%20Repo&style=for-the-badge&logo=github)](https://github.com/search?q=author%3Akkaushik14&type=commits&s=committer-date&o=desc)
+
+[![Last Commit Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Akkaushik14%26sort%3Dcommitter-date%26order%3Ddesc%26per_page%3D1&query=%24.items%5B0%5D.commit.committer.date&label=Last%20Commit%20Date&style=for-the-badge&logo=github)](https://github.com/search?q=author%3Akkaushik14&type=commits&s=committer-date&o=desc)
 
 - [View all repositories](https://github.com/kkaushik14?tab=repositories)
 - [See recent contribution activity](https://github.com/kkaushik14)
