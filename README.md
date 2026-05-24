@@ -38,6 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
@@ -48,35 +49,60 @@
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=flat&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-%23527FFF.svg?style=flat&logo=amazon-rds&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=flat&logo=apachekafka&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=flat&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-%23527FFF.svg?style=flat&logo=amazonrds&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23844FBA.svg?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
 [![GitHub followers](https://img.shields.io/github/followers/kkaushik14?style=for-the-badge&logo=github&label=Followers)](https://github.com/kkaushik14?tab=followers)
-[![Finance Access Control stars](https://img.shields.io/github/stars/kkaushik14/finance-access-control?style=for-the-badge&logo=github&label=finance-access-control%20stars)](https://github.com/kkaushik14/finance-access-control/stargazers)
-[![Finance Access Control last commit](https://img.shields.io/github/last-commit/kkaushik14/finance-access-control?style=for-the-badge&logo=github&label=last%20updated)](https://github.com/kkaushik14/finance-access-control/commits/main)
+[![Recent Worked Repo](https://img.shields.io/badge/Recent%20Worked%20Repo-finance--access--control-181717?style=for-the-badge&logo=github)](https://github.com/kkaushik14/finance-access-control)
+[![Last Commit](https://img.shields.io/github/last-commit/kkaushik14/finance-access-control?style=for-the-badge&logo=github&label=Last%20Commit)](https://github.com/kkaushik14/finance-access-control/commits/main)
 
 - [View all repositories](https://github.com/kkaushik14?tab=repositories)
 - [See recent contribution activity](https://github.com/kkaushik14)
 
-<p> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=kkaushik14&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=kkaushik14&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkaushik14&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="Kumar Kaushik's GitHub stats" /> </picture> <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaushik14&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaushik14&layout=compact&langs_count=8&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaushik14&layout=compact&langs_count=8&hide_border=true" alt="Top languages used by Kumar Kaushik" /> </picture> </p> <picture> <source srcset="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /> <source srcset="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true" alt="Kumar Kaushik's contribution streak" /> </picture>
+<p>
+  <picture> 
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?  username=kkaushik14&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=kkaushik14&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />  
+  </picture>  
+</p> 
+
+<picture> 
+  <source srcset="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /> 
+  <source srcset="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> 
+  <img src="https://streak-stats.demolab.com?user=kkaushik14&hide_border=true" alt="Kumar Kaushik's contribution streak" /> </picture>
